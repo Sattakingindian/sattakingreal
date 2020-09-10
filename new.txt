@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-21:11:15	178/178	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2008%20Sep%202020%2015:41:15%20GMT	http://www.lyricsmuc.com/robots.txt		(from )
-21:11:16	178/178	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2008%20Sep%202020%2015:41:16%20GMT	http://www.lyricsmuc.com/	/storage/emulated/0/HTTrack/Websites/lyricsmuch.folio/www.lyricsmuc.com/index.html	(from )

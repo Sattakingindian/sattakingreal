@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+SATTA KING SMART
+
+SATTA KING FAST RESULT
+
+SATTA KA GUESSER NUMBER PANE KE LIYE JOIN TELEGRAM
+CLICK HERE 👉https://t.me/shiriram
 You can use the [editor on GitHub](https://github.com/Sattakingindian/sattakingreal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

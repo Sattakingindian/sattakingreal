@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.lyricsmuch.com	TRUE	/	FALSE	1999999999	__cfduid	df607a14f91f40c9b350e4eadafc18d271599579674
+www.lyricsmuc.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.lyricsmuch.com	TRUE	/	FALSE	1999999999	__cfruid	0273484fc5bf51caa61dd1fb02a3f208766a20d7-1599579675
+
